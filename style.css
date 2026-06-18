@@ -219,7 +219,7 @@ body{
     }
 
     .text-box{
-        margin-left: 0;
+        margin-left: 0 !important;
     }
 
     .heading1{
